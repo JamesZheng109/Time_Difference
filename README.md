@@ -23,6 +23,7 @@ Calculates and returns int based on how many days have passed
 Runs the above functions all at once and returns an int based on the final results.
 - char *start_date: Start Date
 - char *end_date End Date
+
 Some additional tests includes:
 - Whether both dates matches the expected string length of 10
 - Whether both struct date.success returns a success.
